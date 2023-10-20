@@ -1,16 +1,18 @@
-### Hi there 👋
+# Título do Seu Projeto
 
-<!--
-**guticoo/guticoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Breve descrição do seu projeto.
 
-Here are some ideas to get you started:
+## Sumário
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Instalação](#instalação)
+- [Como Usar](#como-usar)
+- [Exemplos](#exemplos)
+- [Contribuindo](#contribuindo)
+- [Licença](#licença)
+
+## Instalação
+
+Descreva como instalar o seu projeto, dependências ou requisitos específicos.
+
+```bash
+npm install meu-projeto
